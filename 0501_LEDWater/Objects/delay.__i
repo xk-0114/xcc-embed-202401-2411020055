@@ -1,0 +1,6 @@
+-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections
+-I"D:\project location\LED1\RTE"
+-ID:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-ID:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F407xx
+-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d "delay.c"

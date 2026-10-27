@@ -1,0 +1,13 @@
+Dependencies for Project 'LED1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x6AE04EC4)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I"D:\project location\LED1\RTE"-ID:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F407xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (RTE\Device\STM32F407ZGTx\startup_stm32f407xx.s)(0x637457FA)(--cpu Cortex-M4.fp -g --apcs=interwork -I"D:\project location\LED1\RTE"-ID:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407ZGTx\system_stm32f4xx.c)(0x637457FA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I"D:\project location\LED1\RTE"-ID:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F407xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (D:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x637457FA)
+I (D:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x637457FA)
+I (D:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (D:\software\keil\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\software\keil\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (D:\software\keil\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x637457FA)
